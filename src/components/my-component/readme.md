@@ -7,11 +7,10 @@
 
 ## Properties
 
-| Property | Attribute | Description     | Type     | Default     |
-| -------- | --------- | --------------- | -------- | ----------- |
-| `first`  | `first`   | The first name  | `string` | `undefined` |
-| `last`   | `last`    | The last name   | `string` | `undefined` |
-| `middle` | `middle`  | The middle name | `string` | `undefined` |
+| Property   | Attribute  | Description     | Type      | Default |
+| ---------- | ---------- | --------------- | --------- | ------- |
+| `disabled` | `disabled` | The middle name | `boolean` | `true`  |
+| `switched` | `switched` | The first name  | `boolean` | `false` |
 
 
 ----------------------------------------------
